@@ -25,7 +25,9 @@ SECRET_KEY = '71+t7*_z2)n66e5@vd^jud$2e1da9$ypmtgl&6@o6%0=8j=gu6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'BlandineThebault.pythonanywhere.com',
+]
 
 
 # Application definition
